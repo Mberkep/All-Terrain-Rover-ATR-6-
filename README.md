@@ -1,1 +1,1 @@
-# All-Terrain-Rover-ATR-6-
+All Terrain Rover ATR-6 is a versatile six-wheeled robot designed to traverse various terrains, including stairs, sand, and water. Built with a rocker-bogie mechanism, it maintains stability and adapts to obstacles, making it ideal for challenging environments. Powered by Arduino and controlled via Bluetooth, All Terrain Rover ATR-6 demonstrates a practical application of mobility and control principles, bringing together mechanical design and electronics to create a robust exploration tool.
